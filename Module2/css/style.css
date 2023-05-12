@@ -1,3 +1,11 @@
-p{
-    color:#ff0000;
+*{
+    box-sizing:border-box;
+}
+
+h1{
+    font-family:Verdana;
+    font-size:50px;
+    text-align:center;
+    margin-bottom:20px;
+    color:#000000;
 }
